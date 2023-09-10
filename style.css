@@ -1,16 +1,16 @@
 h1 {
-    font-family: 'Tilt Prism', cursive;
-    color:white;
+    font-family: 'sans serif';
+    color:#05100a;
 }
 button{
-    font-family: 'Source Code Pro', monospace;
+    font-family: 'sans serif';
     color:white;
-    background-color: rgb(82, 3, 3);
+    background-color: #090000fb;
 }
 body{
   
-    background-image:url("textimage.jpg")
+    background-image:url("./images/bg-image.jpg")
 }
 .textarea{
-    background: url("textimage.jpg");
+    background: url("./images/bg-image.jpg");
 }
